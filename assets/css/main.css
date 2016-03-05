@@ -1950,7 +1950,7 @@
 		-ms-transition: border-color 0.2s ease-in-out;
 		transition: border-color 0.2s ease-in-out;
 		background: #fff;
-		border: solid 1px #e0e0e0;
+		border: solid 1px #ff0066;
 		border-radius: 5px;
 		color: inherit;
 		display: block;
@@ -1982,7 +1982,7 @@
 	}
 
 	::-webkit-input-placeholder {
-		color: #999;
+		color: #ff0066;
 		position: relative;
 		top: 3px;
 	}
@@ -2225,7 +2225,7 @@
 		background-image: -webkit-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.15)), url("images/bg01.png");
 		background-image: -ms-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.15)), url("images/bg01.png");
 		background-image: linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.15)), url("images/bg01.png");
-		background-color: #37c0fb;
+		background-color: #00ffcc;
 		border-radius: 5px;
 		border: 0;
 		color: #fff;
@@ -2244,7 +2244,7 @@
 		input[type="reset"]:hover,
 		input[type="button"]:hover,
 		.button:hover {
-			background-color: #50c8fb;
+			background-color: #00ffcc;
 			color: #fff !important;
 		}
 
@@ -2252,7 +2252,7 @@
 		input[type="reset"]:active,
 		input[type="button"]:active,
 		.button:active {
-			background-color: #1eb8fb;
+			background-color: #00ffcc;
 			color: #fff;
 		}
 
@@ -2260,7 +2260,7 @@
 		input[type="reset"].alt,
 		input[type="button"].alt,
 		.button.alt {
-			background-color: #555555;
+			background-color: #ff0066;
 			color: #fff;
 		}
 
