@@ -2371,16 +2371,16 @@
 			background-image: url("images/bg01.png");
 		}
 
-		#nav > ul {
-			margin: 0;
-		}
+		
 
 			#nav > ul > li {
 				position: relative;
 				display: inline-block;
 				margin-left: 1em;
 			}
-
+#nav > ul {
+			margin: 0;
+		}
 				#nav > ul > li a {
 					color: #ffffff;
 					text-decoration: none;
